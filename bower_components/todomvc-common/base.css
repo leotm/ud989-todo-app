@@ -282,11 +282,11 @@ label[for='toggle-all'] {
 	text-decoration: line-through;
 }
 
-#todo-list li.priority:not(.completed) label {
+#todo-list li.prioritised:not(.completed) label {
 	color: #d66;
 }
 
-#todo-list li.priority .priority-btn:after {
+#todo-list li.prioritised .priority-btn:after {
 	color: #d66;
 }
 
